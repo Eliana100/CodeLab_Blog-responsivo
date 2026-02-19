@@ -18,6 +18,9 @@ Este projeto é uma interface de blog moderna e minimalista, desenvolvida como u
 
 O projeto foi desenvolvido seguindo a estratégia **Desktop-to-Mobile**, garantindo que a experiência visual se mantenha consistente desde monitores de alta resolução até dispositivos móveis.
 
+- **Desktop:** Layout amplo com foco na hierarquia visual dos artigos em colunas.
+- **Tablet & Mobile:** Ajuste de espaçamentos.
+
 <br>
 
 ## 🌸 Funcionalidades Implementadas
@@ -37,4 +40,4 @@ O projeto foi desenvolvido seguindo a estratégia **Desktop-to-Mobile**, garanti
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/seu-usuario/codelab.git](https://github.com/seu-usuario/codelab.git)
+   git clone https://github.com/Eliana100/CodeLab_Blog-responsivo.git
