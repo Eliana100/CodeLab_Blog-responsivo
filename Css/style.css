@@ -88,8 +88,14 @@ article {
     padding: 40px;
     margin: 40px 0;
     border-radius: 8px;
-    transition: 0.3s;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
+
+article:hover {
+  transform: scale(1.02);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.3);
+}
+
 
 .header-article {
     display: flex;
