@@ -1,4 +1,4 @@
-# CodeLab - Blog Front-end 💕
+# CodeLab - Blog Front-end 
 
 <img width="1920" height="1260" alt="Blog (Desktop)" src="https://github.com/user-attachments/assets/6460fa77-a44d-4e9c-997a-ece2fe2ff91d" />
 
