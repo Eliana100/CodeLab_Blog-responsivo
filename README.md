@@ -12,6 +12,10 @@ Este projeto é uma interface de blog moderna e minimalista, desenvolvida como u
 
 <br>
 
+*Figma do projeto:* https://www.figma.com/design/Yb9IBH56g7T1hdIyZ3BMNO/Desafios---CodeLab?node-id=0-1&t=VJYlESXt0ZLOD266-1
+
+<br>
+
 ## 🎀 Responsividade e Adaptação
 
 <br>
