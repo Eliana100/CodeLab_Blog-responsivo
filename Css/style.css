@@ -64,7 +64,8 @@ header {
 }
 
 .header-bloco {
-    width: 1216px;
+    max-width: 1216px;
+    width: 100%;
 }
 
 
@@ -104,7 +105,7 @@ article:hover {
 }
 
 section {
-    margin: 0 65px;
+    padding: 0 65px;
 }
 article.liked {
   border: 1px solid var(--band-color);
@@ -124,6 +125,37 @@ article.liked .icon {
   color: #e07b67;
 }
 
+@media (max-width: 768px) {
+
+  header {
+    padding: 40px 24px;
+  }
+
+  .header-bloco {
+    width: 100%;
+  }
+
+  section {
+    margin: 40px 0;
+    padding: 0 16px;
+  }
+
+  article {
+    padding: 24px;
+  }
+
+  body h1 {
+    font-size: 28px;
+  }
+
+  body h2 {
+    font-size: 20px;
+  }
+
+  body p {
+    font-size: 16px;
+  }
+}
 
 
 
