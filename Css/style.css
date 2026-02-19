@@ -83,16 +83,12 @@ input:focus {
 }
 
 
-
-#article-selecionado {
-    border: var(--band-color) 1px solid;
-}
-
 article {
     border: var(--dark-40) 1px solid;
     padding: 40px;
     margin: 40px 0;
     border-radius: 8px;
+    transition: 0.3s;
 }
 
 .header-article {
@@ -104,13 +100,24 @@ article {
 section {
     margin: 0 65px;
 }
-
-
-/*Mobile*/
-
-@media (max-width: 480px){
-  section {
-    margin: 56px 24px;
-  }
+article.liked {
+  border: 1px solid var(--band-color);
 }
+
+article.liked .icon {
+  color: var(--band-color);
+}
+
+.icon {
+  color: gray;
+  cursor: pointer;
+  transition: 0.3s;
+}
+
+.active {
+  color: #e07b67;
+}
+
+
+
 
